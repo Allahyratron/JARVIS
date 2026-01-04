@@ -1,0 +1,8 @@
+{
+  "name": "JARVIS AI Assistant",
+  "description": "A futuristic, voice-activated AI assistant inspired by Iron Man's JARVIS, powered by Gemini Live API for real-time conversation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
